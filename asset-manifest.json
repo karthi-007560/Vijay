@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22810db0.css",
+    "main.js": "/static/js/main.2ce19e7e.js",
+    "static/media/Hero.png": "/static/media/Hero.caabbc8a3d767c08c334.png",
+    "static/media/Sp Velumani.jpg": "/static/media/Sp Velumani.4ecfd513457d33d68ae6.jpg",
+    "static/media/Udumalai_Radhakrishnan.jpg": "/static/media/Udumalai_Radhakrishnan.06a2ba6fbf44cebf3f7e.jpg",
+    "static/media/shanmugam.jpg": "/static/media/shanmugam.8e4ee182df0d762c5268.jpg",
+    "index.html": "/index.html",
+    "main.22810db0.css.map": "/static/css/main.22810db0.css.map",
+    "main.2ce19e7e.js.map": "/static/js/main.2ce19e7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22810db0.css",
+    "static/js/main.2ce19e7e.js"
+  ]
+}
